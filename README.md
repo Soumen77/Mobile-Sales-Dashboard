@@ -8,9 +8,13 @@ It enables stakeholders to monitor performance, identify trends, and make data-d
 🎯 Objectives
 
 -Track overall sales performance
+
 -Analyze brand and model-wise sales
+
 -Understand customer purchasing behavior
+
 -Evaluate payment method usage
+
 -Monitor time-based sales trends
 
 📊 Dashboard Features
