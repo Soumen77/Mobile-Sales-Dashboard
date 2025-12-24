@@ -17,46 +17,71 @@ It enables stakeholders to monitor performance, identify trends, and make data-d
 
 -Monitor time-based sales trends
 
+
+
 📊 Dashboard Features
 
 KPI Cards: Total Sales, Quantity Sold, Transactions, Average Sales
+
 Geographical Insights: Sales by City (Map Visualization)
+
 Time Analysis: Monthly and Day-wise sales trends
+
 Product Analysis: Brand-wise and Model-wise sales
+
 Payment Analysis: Transactions by payment method
+
 Customer Insights: Rating distribution
+
 
 🎛️ Interactivity
 
+
 Slicers for:
 
-Month
-Brand
-Mobile Model
-Payment Method
-Day Name
+-Month
+
+-Brand
+
+-Mobile Model
+
+-Payment Method
+
+-Day Name
 
 Cross-filtering across all visuals for deeper insights
 
+
 🛠️ Tools & Technologies
 
--Microsoft Power BI
+
+\-Microsoft Power BI
+
 -DAX (Basic Measures & Calculations)
+
 -Data Modeling
+
 -Data Visualization Best Practices
 
+
 📂 Project Structure
+
+
 📁 Mobile-Sales-Dashboard
+
 │── 📊 Mobile Sales Dashboard.pbix
+
 │── 📄 Dataset (CSV / Excel)
+
 │── 📷 Dashboard Screenshot.png
+
 │── 📄 README.md
 
-📷 Dashboard Preview
 
 📷 Dashboard Preview
 
-https://github.com/Soumen77/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20this%20Dashboard.PNG
+<img width="907" height="508" alt="Snapshot of this Dashboard" src="https://github.com/user-attachments/assets/d13d0b37-76d4-4d0d-8e35-32821f7e5b62" />
+
 
 🎓 Learning Reference
 
@@ -66,9 +91,13 @@ Satish Dhawale (Skill Course Founder), focusing on real-world Power BI dashboard
 🚀 Key Learnings
 
 -Creating business-ready dashboards
+
 -Designing interactive reports
+
 -Writing basic DAX measures
+
 -Effective use of slicers and filters
+
 -Presenting insights visually
 
 🤝 Connect With Me
